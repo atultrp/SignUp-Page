@@ -1,0 +1,16 @@
+{
+  "name": "sign-up",
+  "version": "1.0.0",
+  "description": "This server provide a sign page for the subscriber who want to subscribe.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atul Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
