@@ -3,7 +3,7 @@ Welcome to the Newsletter signup page with live server.
 
 ## 📃️ Documentation
 
-This webpage is simply made by using pure
+This webpage is simply made by using :
 * [HTML](https://www.w3schools.com/html/html_intro.asp)
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [JavaScript](https://www.w3schools.com/js/)
