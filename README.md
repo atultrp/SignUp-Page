@@ -1,5 +1,5 @@
 # ⚡️ SignUp Page ⚡️
-Welcome to the Newsletter signup page with live server.
+In this project I created a newsletter signup app to add a user to a list in Mailchimp and used Node.js with Express along with the Mailchimp API.
 
 ## 📃️ Documentation
 
